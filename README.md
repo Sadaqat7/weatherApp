@@ -1,5 +1,5 @@
 # weatherApp
-you can visit on web: https://sadaqat7.github.io/weatherApp/
+You can visit on web: https://sadaqat7.github.io/weatherApp/
 
 WEATHER App
 -------------
